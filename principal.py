@@ -1,3 +1,4 @@
 import os
 import sys
-print("traps")
+print([sys.argv])
+print("nobmre del archivo ")
