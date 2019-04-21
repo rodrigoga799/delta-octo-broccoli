@@ -1,0 +1,1 @@
+#new generative neural network
